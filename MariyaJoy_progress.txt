@@ -1,0 +1,5 @@
+Day 1: 06-02-25
+
+html---><a></a>,<img>,<button></button>,<p></p>,<h1>/h1>,nav bar
+css--->hover,scrollbar
+challenges--overlapping of buttons with p tag.

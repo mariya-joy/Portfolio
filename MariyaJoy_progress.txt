@@ -3,3 +3,11 @@ Day 1: 06-02-25
 html---><a></a>,<img>,<button></button>,<p></p>,<h1>/h1>,nav bar
 css--->hover,scrollbar
 challenges--overlapping of buttons with p tag.
+
+commited
+
+Day 2:07-02-25
+html--->buttons,forms,ui,li
+css---->shadow,hover
+
+commited

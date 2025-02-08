@@ -88,6 +88,7 @@ span{
 .home-content p{
     font-size: 18px;
     margin: 25px 0 30px;
+    
 }
 .btn-box{
     width: 345px;
@@ -257,3 +258,30 @@ span{
     font-size: 12px;
     color: white;
 }
+.project-content h2{
+    max-width:50em;
+    margin-top:auto;
+    margin:5rem auto;
+    text-align: center;
+    margin-bottom: 3em;
+}
+.project-content h3{
+    margin:5rem auto;
+    text-align: center;
+    margin-bottom: 3em;
+}
+.project-content p{
+    color:rgb(24, 4, 4);
+    font-size: 20px;
+   margin-left: 10px;
+   margin-right: 10px;
+    text-align: justify;
+}
+.project-content img{
+    position:center;
+    margin-left: 500px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+    
+    
